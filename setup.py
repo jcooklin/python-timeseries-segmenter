@@ -6,6 +6,7 @@ setup(
     description="Interactively clusterize your timeseries datasets",
     packages=["dataframesegmenter"],
     install_requires=[
+        "pandas",
         "Bcolors >= 0.1",
         "matplotlib>=2.1.2",
         "numpy>=1.14.2"
