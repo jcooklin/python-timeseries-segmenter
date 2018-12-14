@@ -11,6 +11,6 @@ setup(
         "numpy>=1.14.2"
     ],
     dependency_links=[
-        "git+https://github.com/XavierTolza/Bcolors.git@master"
+        # "git+https://github.com/XavierTolza/Bcolors.git@master"
     ]
 )
